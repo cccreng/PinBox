@@ -42,5 +42,7 @@ Outdated Tutorial Video (Thanks to @GameInCanada): https://www.youtube.com/watch
 
 Ask for help, but I can't have too many people asking questions at once, i am planning on making my own discord channel for this pinbox.
 
-## If you are having issues don't hesitate to ask for help on our official Discord channel! 
+## The discord channel below belongs to Namkatz:
 ## https://discord.gg/CpNpMdG
+
+##Special thanks to Namkatz for making this in the first place!
