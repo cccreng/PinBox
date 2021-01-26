@@ -1,4 +1,4 @@
-Note: this project is a fork, and I will continue to develope this where the previous owner left off.
+Note: this project is a fork, and I will continue to develope this where the Namkatz (the previous owner) left off.
 
 
 [![N|Solid](https://cdn.discordapp.com/attachments/340110838947905538/398531319048699905/test.png)](https://github.com/namkazt/PinBox)
